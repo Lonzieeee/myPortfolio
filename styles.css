@@ -340,6 +340,7 @@ button:hover {
   /* width: 30%; */
   margin: 10px;
   transition: transform 0.3s ease;
+  margin-right: 30%;
 }
 .skill-items:hover{
   transform: scale(1.05);
