@@ -632,8 +632,11 @@ flex-direction: column; */
 #services{
   padding: 20px 10px;
   overflow: hidden;
-  
-}
+  }
+  #services h1{
+    font-size: 40px;
+
+  }
 .services-list{
   display: flex;
   flex-direction: column;
@@ -643,13 +646,11 @@ flex-direction: column; */
   padding: 0; */
 }
 .services-list div{
-  width: 80%;
-  margin-top: 10px 0;
-  /* font-size: 14px;
-  padding: 15px;
-  box-sizing: border-box; */
+  width: 80%; 
+  margin-top:10px 0;
 
   }
+  
   .services-list div h2{
     font-size: 20px;
   }
