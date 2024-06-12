@@ -626,6 +626,9 @@ flex-direction: column; */
   width: 90%;
   max-width: 400px;
 }
+.content h1{
+  font-size: 40px;
+}
 #services{
   padding: 20px 10px;
   overflow: hidden;
